@@ -3,6 +3,8 @@ cmake_minimum_required(VERSION 3.18)
 project(aoc_helper)
 
 set(SRC_FILES
+    src/aoch/AOCSolutionsManager.cpp
+    src/aoch/fileio.cpp
     src/aoch/math.cpp
     src/aoch/string.cpp
 )
