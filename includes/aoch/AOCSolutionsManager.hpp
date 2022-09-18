@@ -2,7 +2,6 @@
 
 #include <chrono>
 #include <optional>
-#include <string>
 #include <vector>
 
 #include "aoch/AOCSolutionTypes.hpp"
